@@ -24,13 +24,3 @@ pm uninstall --user 0 com.android.cellbroadcastreceiver
 pm uninstall --user 0 com.android.smspush
 pm uninstall --user 0 com.android.cellbroadcastservice
 pm uninstall --user 0 com.android.calllogbackup
-
-count=0
-until [ "$(getprop init.svc.touchscreen_hal_service)" = "running" -o "$count" -ge 20 ]
-do
-  sleep 1
-  count=$((count+1))
-done
-
-chown root:root /proc/game_mode
-chmod 644 /proc/game_mode
