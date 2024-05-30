@@ -9,7 +9,7 @@ MODDIR=${0%/*}
 # This script will be executed in late_start service mode
 
 echo "1" > /proc/gesture_control
-echo 4200000 > /sys/class/power_supply/battery/voltage_max
+echo "4200000" > /sys/class/power_supply/battery/voltage_max
 pm disable-user --user 0 com.android.providers.contacts
 pm disable-user --user 0 com.android.nfc
 pm uninstall --user 0 me.phh.treble.overlay.cafims_telephony
