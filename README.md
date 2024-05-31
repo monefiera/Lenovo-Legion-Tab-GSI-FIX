@@ -1,7 +1,7 @@
 # Lenovo-Legion-Tab-GSI-FIX
 
 Lenovo Legion Tab/Y700(2023 with SD8+Gen1)にGSIを導入した場合に便利なMagiskモジュールです。  
-Android 13～14で動作確認済みです。  
+crDroid GSI v10.5 by Nazim(Android 14 QPR2)でのみ動作確認済みです。  
 ※Legion Y700(2022/SD870)でも一応DT2Wは動きますが、Overlayが異なるためおそらく輝度調整が正常に動作しません(未検証)。  
 
 以下の機能を備えています。  
