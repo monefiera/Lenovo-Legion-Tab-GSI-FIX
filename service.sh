@@ -9,6 +9,3 @@ MODDIR=${0%/*}
 # This script will be executed in late_start service mode
 
 echo "1" > /proc/gesture_control
-
-su -c "rm -r /data/dalvik-cache"
-su -c "rm -r /cache/dalvik-cache"
