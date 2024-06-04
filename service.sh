@@ -33,3 +33,6 @@ pm uninstall --user 0 com.android.contacts
 pm uninstall --user 0 im.angry.openeuicc
 pm uninstall --user 0 com.google.android.dialer
 pm uninstall --user 0 com.google.android.contacts
+
+su -c "rm -r /data/dalvik-cache"
+su -c "rm -r /cache/dalvik-cache"
