@@ -56,11 +56,14 @@ chooseport() {
 }
 
 ui_print " "
-ui_print "Do you wanna disable DT2W feature?"
+ui_print "Do you wanna enable DT2W feature?"
 ui_print "   Vol Up = Yes, Vol Down = No"
-ui_print "ダブルタップで画面オンを無効化しますか?"
-ui_print "   音量上 = 無効化、音量下 = 有効化"
+ui_print "ダブルタップで画面オンを有効化しますか?"
+ui_print "   音量上 = 有効化、音量下 = 無効化"
 if chooseport; then
+ui_print "Enabled."
+ui_print "有効化しました。"
+else
 rm -rf $MODPATH/service.sh
 ui_print "Disabled."
 ui_print "無効化しました。"
