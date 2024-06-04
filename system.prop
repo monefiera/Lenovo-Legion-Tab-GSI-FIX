@@ -1,0 +1,17 @@
+#Hide warning by using stock prop
+ro.build.characteristics=tablet
+ro.product.model=TB320FC
+ro.product.brand=Lenovo
+ro.product.first_api_level=33
+ro.product.name=TB320FC
+ro.product.device=TB320FC
+ro.product.manufacturer=Lenovo
+ro.build.product=TB320FC
+ro.build.fingerprint=Lenovo/TB320FC/TB320FC:13/TKQ1.221114.001/ZUI_15.0.240_2404111037_ROW:user/release-keys
+ro.build.version.incremental=TB320FC_ROW_OPEN_USER_Q00031.0_T_ZUI_15.0.240_ST_240411
+ro.build.version.security_patch=2023-05-01
+ro.system.build.version.release=13
+
+#Others
+ro.surface_flinger.force_hwc_copy_for_virtual_displays=false
+ro.odm.lenovo.attestationkey=1
