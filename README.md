@@ -13,7 +13,7 @@ Lenovo Legion Tab/Y700(2023 with SD8+Gen1)にGSIを導入した場合に便利�
 ・「ダブルタップで起動」を有効化するオプションの追加(インストール時に選択できます)  
 ・「磁気カバーによるスリープ/スリープ解除」を有効化  
 
-##Credits(敬称略)  
+## Credits(敬称略)  
 ・[SMART ASW](https://smartasw.com/)：オリジナルモジュールの作成者  
 ・[Re*Index](https://reindex-ot.github.io/)：セルスタンバイ対策スクリプトの作成者  
 ・[AndroPlus](https://androplus.jp/) & [Zackptg5](https://zackptg5.com/)：オプションスクリプトの原案者  
