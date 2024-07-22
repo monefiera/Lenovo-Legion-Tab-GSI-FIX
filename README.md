@@ -2,7 +2,8 @@
 
 Lenovo Legion Tab/Y700(2023 with SD8+Gen1)にGSIを導入した場合に便利なMagiskモジュールです。  
 [crDroid GSI v10.5 by Nazim](https://github.com/naz664/crDroid_gsi)(Android 14 QPR2)でのみ動作確認済みです。  
-※Legion Y700(2022/SD870)でも一応DT2Wは動きますが、Overlayが異なるためおそらく輝度調整が正常に動作しません。  
+[PixelOS GSI 14 June Release by MisterZtr](https://github.com/MisterZtr/PixelOS_gsi/)ではクラッシュするためフォーク元をお使いください。  
+※Legion Y700(2022/SD870)でも一応DT2Wは動きますが、Overlayが異なるためおそらく輝度調整などが正常に動作しません。  
 
 以下の機能を備えています。  
 ・自動輝度調整を有効化  
