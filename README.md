@@ -15,7 +15,7 @@ Lenovo Legion Tab/Y700(2023 with SD8+Gen1)にGSIを導入した場合に便利�
 
 以下の機能は最新版では削除されています。  
 ・「磁気カバーによるスリープ/スリープ解除」を有効化(最新のGSIはデフォルトで対応するため外しました)  
-・fingerprintなど、GSIのpropをLegion Tabのpropに変更([PixelOS GSI](https://github.com/MisterZtr/PixelOS_gsi/)にて一部アプリがオーバークラッシュを起こしたため)  
+・fingerprintなど、GSIのpropをLegion Tabのpropに変更(~~[PixelOS GSI](https://github.com/MisterZtr/PixelOS_gsi/)にて一部アプリがオーバークラッシュを起こしたため~~)  
 
 既知の不具合  
 ・モジュールをアンインストールしても無効化したアプリは再有効化されません。  
