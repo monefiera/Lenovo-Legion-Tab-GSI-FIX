@@ -95,6 +95,7 @@ ui_print "Disabling phone apps for cell standby…"
 ui_print "セルスタンバイの原因となるアプリを無効化します…"
 ui_print " "
   sleep 1.0
+pm uninstall –user 0 com.android.phone
 pm disable-user --user 0 com.android.providers.contacts
 pm disable-user --user 0 com.android.nfc
 pm disable-user --user 0 com.android.smspush
@@ -114,7 +115,6 @@ pm disable-user --user 0 com.android.cellbroadcastreceiver.module
 pm disable-user --user 0 com.android.carrierdefaultapp
 pm disable-user --user 0 com.android.server.telecom
 pm disable-user --user 0 com.android.dialer
-pm disable-user --user 0 com.android.phone
 pm disable-user --user 0 com.android.contacts
 pm disable-user --user 0 im.angry.openeuicc
 pm disable-user --user 0 com.google.android.dialer
