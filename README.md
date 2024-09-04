@@ -1,5 +1,11 @@
 # Lenovo-Legion-Tab-GSI-FIX
-**by SMART ASW modded by MONE FIERA**
+![Made for Magisk](https://img.shields.io/badge/Made%20for-Magisk-teal?style=for-the-badge&logo=magisk)
+![GitHub Downloads](https://img.shields.io/github/downloads/monefiera/Lenovo-Legion-Tab-GSI-FIX/total?color=green&style=for-the-badge&logo=github)
+![GitHub Issues](https://img.shields.io/github/issues/monefiera/Lenovo-Legion-Tab-GSI-FIX?style=for-the-badge&logo=github)
+![GitHub Pull Requests](https://img.shields.io/github/issues-pr/monefiera/Lenovo-Legion-Tab-GSI-FIX?style=for-the-badge&logo=github)  
+
+**by SMART ASW modded by MONE FIERA**  
+[For English Users](https://github.com/monefiera/Lenovo-Legion-Tab-GSI-FIX/blob/main/README_EN.md)  
 
 Lenovo Legion Tab/Y700(2023 with SD8+Gen1)にGSIを導入した場合に便利なMagiskモジュールです。  
 [crDroid GSI v10.7-beta by Nazim](https://sourceforge.net/projects/gsi-projects/files/A14/crDroid/10.7/BETA/)(Android 14 QPR2)でのみ動作確認済みです。  
