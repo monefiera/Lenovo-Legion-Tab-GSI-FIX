@@ -80,12 +80,12 @@ ui_print "   Vol Up = Yes, Vol Down = No"
 ui_print "ダブルタップで画面オンを有効化しますか?"
 ui_print "   音量上 = 有効化、音量下 = 無効化"
 if chooseport 10; then
-sed -i 's/\(description=.*]\)\(.*\)/\1[DT2W enabled👍] \2/' $MODPATH/module.prop
+sed -i 's/\(description=.*]\)\(.*\)/\1[DT2W enabled👍]\2/' $MODPATH/module.prop
 ui_print "Enabled."
 ui_print "有効化しました。"
 else
 sed -i 's/\(echo\) "1" \(.*gesture_control\)/\1 "0" \2/' $MODPATH/service.sh
-sed -i 's/\(description=.*]\)\(.*\)/\1[DT2W disabled❌] \2/' $MODPATH/module.prop
+sed -i 's/\(description=.*]\)\(.*\)/\1[DT2W disabled❌]\2/' $MODPATH/module.prop
 ui_print "Disabled."
 ui_print "無効化しました。"
 fi
