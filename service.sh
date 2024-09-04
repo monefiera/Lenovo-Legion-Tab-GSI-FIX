@@ -9,4 +9,4 @@ MODDIR=${0%/*}
 # This script will be executed in late_start service mode
 
 echo "1" > /proc/gesture_control;
-echo "1" > /proc/support_pen
+echo "1" > /proc/support_pen;
