@@ -8,7 +8,7 @@
 [For English Users](https://github.com/monefiera/Lenovo-Legion-Tab-GSI-FIX/blob/main/README_EN.md)  
 
 Lenovo Legion Tab/Y700(2023 with SD8+Gen1)にGSIを導入した場合に便利なMagiskモジュールです。  
-[crDroid GSI v10.7-beta by Nazim](https://sourceforge.net/projects/gsi-projects/files/A14/crDroid/10.7/BETA/)(Android 14 QPR2)でのみ動作確認済みです。  
+[crDroid GSI v10.8 by Nazim](https://github.com/naz664/crDroid_gsi/releases/tag/v2024.09.13)(Android 14 QPR3)で動作確認済みです。  
 他のGSIで使用し、不具合が発生した場合はお知らせください。  
 
 以下の機能を備えています。  
