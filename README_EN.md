@@ -2,7 +2,7 @@
 **by SMART ASW modded by MONE FIERA**
 
 This Magisk module is useful when you are using GSI at Lenovo Legion Tab/Y700 (2023 with SD8+Gen1).    
-Only [crDroid GSI v10.7-beta by Nazim](https://sourceforge.net/projects/gsi-projects/files/A14/crDroid/10.7/BETA/)(Android 14 QPR2)has been tested to work.  
+[crDroid GSI v10.8 by Nazim](https://github.com/naz664/crDroid_gsi/releases/tag/v2024.09.13)(Android 14 QPR3)has been tested to work.  
 Please tell me if you use it with other GSIs and encounter any problems.  
 
 The following functions are available  
