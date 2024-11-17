@@ -1,13 +1,13 @@
 # Lenovo-Legion-Tab-GSI-FIX
 **by SMART ASW modded by MONE FIERA**
 
-This Magisk module is useful when you are using GSI at Lenovo Legion Tab/Y700 (2023 with SD8+Gen1).    
+This Magisk module is useful when you are using GSI at Lenovo Legion Tab/Y700 (2023 Gen2 with SD8+Gen1).    
 [crDroid GSI v10.8 by Nazim](https://github.com/naz664/crDroid_gsi/releases/tag/v2024.09.13)(Android 14 QPR3)has been tested to work.  
 Please tell me if you use it with other GSIs and encounter any problems.  
 
 The following functions are available  
 ・Enables automatic brightness adjustment  
-・Stylus pen (AP500U for CN/ROW, PC-AC-AD042C? for NEC) support  
+・Stylus pen (AP500U for PRC/ROW, PC-AC-AD042C for NEC) support  
 ・Disable apps related to phone/calls at once (to prevent cell standby).  
 ・Add option to enable “Double-Tap To Wake/DT2W” (selectable during installation).  
 ・Add option to select Maximum Refresh Rate (selectable between 120Hz and 144Hz).  
