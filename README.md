@@ -7,13 +7,13 @@
 **by SMART ASW modded by MONE FIERA**  
 [For English Users](https://github.com/monefiera/Lenovo-Legion-Tab-GSI-FIX/blob/main/README_EN.md)  
 
-Lenovo Legion Tab/Y700(2023 with SD8+Gen1)にGSIを導入した場合に便利なMagiskモジュールです。  
+Lenovo Legion Tab/Y700(2023 Gen2 with SD8+Gen1)にGSIを導入した場合に便利なMagiskモジュールです。  
 [crDroid GSI v10.8 by Nazim](https://github.com/naz664/crDroid_gsi/releases/tag/v2024.09.13)(Android 14 QPR3)で動作確認済みです。  
 他のGSIで使用し、不具合が発生した場合はお知らせください。  
 
 以下の機能を備えています。  
 ・自動輝度調整を有効化  
-・スタイラスペン(CN/ROWではAP500U、NECではPC-AC-AD042C?)のサポート  
+・スタイラスペン(PRC/ROWではAP500U、NECではPC-AC-AD042C)のサポート  
 ・通話に関するアプリを一括で無効化する(セルスタンバイ対策)  
 ・「ダブルタップで起動」を有効化するオプションの追加(インストール時に選択できます)  
 ・最高リフレッシュレートを選択するオプションの追加(120Hzと144Hzから選択できます)  
